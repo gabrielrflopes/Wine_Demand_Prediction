@@ -109,3 +109,5 @@ Ao testar os limites do modelo, prevendo dois anos de vendas no futuro, começam
 ## Conclusão
 
 O modelo apresentou uma capacidade preditiva alta da demanda de vendas de vinhos até um ano no futuro. Com um erro absoluto médio (**MAE**) baixíssimo, de **0,74**, e um **MAPE abaixo de 10%**, trata-se de um modelo robusto, capaz de generalizar para novos dados no futuro e prever a demanda com precisão.
+
+<sub>[Retornar ao Portfólio](https://github.com/gabrielrflopes/Data-Science-Portfolio)
