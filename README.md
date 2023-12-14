@@ -43,7 +43,7 @@ Neste projeto, analisamos os dados sobre os produtos e vendas de 3 lojas de vinh
 A análise exploratória nos deu um panorama de como se relacionam os vinhos com as vendas e a receita bruta gerada por eles. Junto disso, visualizamos o impacto das marcas e regiões de produção nas vendas dos produtos, desenhando assim uma possível estratégia para ter um estoque com os produtos que mais tem fluxo de venda e retornam maior receita. A figura abaixo mostra uma das análises feita sobre a distribuição das vendas e da receita bruta por marca de vinho. A partir disto, pudemos concluir quais marcas convertem em maior receita, quais geram mais receita apesar das vendas mais baixas, e quais são de preferência do consumidor.
 
 <p align="center">
-  <img src="images/sales_brand.png" width="70%">
+  <img src="images/sales_brand.png" width="80%">
 </p>
 
 * **Objetivo da Construção do Modelo de Previsão**
