@@ -7,7 +7,8 @@
 </p>
 
 > **Acesse o projeto completo aqui: [Notebook do Projeto](https://github.com/gabrielrflopes/Wine_Demand_Prediction/blob/main/P7_Previs%C3%A3o_de_Demandas_de_Vinhos_com_Time_Series.ipynb)**
-> **Acesse o artigo do projeto aqui: [Medium](https://medium.com/@grflopes/uma-maneira-de-prever-demanda-de-vendas-com-séries-temporais-970ad550b8e9)
+
+> **Acesse o artigo do projeto aqui: [Medium](https://medium.com/@grflopes/uma-maneira-de-prever-demanda-de-vendas-com-séries-temporais-970ad550b8e9)**
 
 ## Entendimento do Problema
 
